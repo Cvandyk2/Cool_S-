@@ -11,8 +11,11 @@ from folium import DivIcon
 import branca.colormap as cm
 from folium.features import DivIcon
 
+# === Tip Jar ===
+"https://www.paypal.com/paypalme/chancevandyke"
+
 # === Source ===
-# https://www.marinetraffic.com/en/ais/home/centerx:-86.1/centery:32.0/zoom:5
+"https://www.marinetraffic.com/en/ais/home/centerx:-86.1/centery:32.0/zoom:5"
 
 # === CONFIGURE YOUR FILTERS HERE ===
 
